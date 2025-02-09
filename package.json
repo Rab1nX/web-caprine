@@ -1,0 +1,26 @@
+{
+  "name": "web-caprine",
+  "version": "1.0.0",
+  "description": "Web version of Caprine Facebook Messenger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sindresorhus/caprine.git"
+  },
+  "author": {
+    "name": "Web Caprine Contributors"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/caprine/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/caprine#readme",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
