@@ -1,5 +1,11 @@
 # Web Caprine
 
+> ⚠️ **Development Status**: This project is currently under active development and is not yet ready for production use. There are known bugs and issues that need to be addressed. Feel free to contribute, but please be aware that things might break! 🚧
+
+> 🐛 **Known Issues**: Several bugs are being tracked and fixed. Check the [Issues](https://github.com/Rab1nX/web-caprine/issues) page for the latest status.
+
+> 🔨 **Contributing**: We welcome contributions! Please check our [Contributing Guidelines](CONTRIBUTING.md) before submitting PRs.
+
 A web-based version of the Caprine Facebook Messenger desktop application.
 
 ## Features
