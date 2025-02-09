@@ -1,12 +1,27 @@
 # Web Caprine
 
+> 🍴 This is a web-based fork of [Caprine](https://github.com/sindresorhus/caprine) - the elegant Facebook Messenger desktop app.
+
+[![Original Caprine](https://img.shields.io/badge/Original-Caprine-blue?style=flat-square)](https://github.com/sindresorhus/caprine)
+[![Fork Status](https://img.shields.io/badge/Fork-Active%20Development-green?style=flat-square)](https://github.com/Rab1nX/web-caprine)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+
 > ⚠️ **Development Status**: This project is currently under active development and is not yet ready for production use. There are known bugs and issues that need to be addressed. Feel free to contribute, but please be aware that things might break! 🚧
 
 > 🐛 **Known Issues**: Several bugs are being tracked and fixed. Check the [Issues](https://github.com/Rab1nX/web-caprine/issues) page for the latest status.
 
 > 🔨 **Contributing**: We welcome contributions! Please check our [Contributing Guidelines](CONTRIBUTING.md) before submitting PRs.
 
-A web-based version of the Caprine Facebook Messenger desktop application.
+## About
+
+This is a web-based version of the popular [Caprine](https://github.com/sindresorhus/caprine) Facebook Messenger desktop application. While the original Caprine is an Electron-based desktop app, this fork reimagines it as a modern web application, making it accessible through any web browser.
+
+### Why This Fork?
+
+- 🌐 **Web Accessibility**: Access your messages from any browser without installing a desktop app
+- 🚀 **Modern Stack**: Built with React, TypeScript, and modern web technologies
+- 🔄 **Real-time Updates**: Maintains the real-time messaging capabilities of the original
+- 🎨 **Familiar UI**: Keeps the elegant and clean design philosophy of Caprine
 
 ## Features
 

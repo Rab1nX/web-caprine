@@ -1,19 +1,22 @@
 {
   "name": "web-caprine",
   "version": "1.0.0",
-  "description": "Web version of Caprine Facebook Messenger",
+  "description": "Web version of Caprine Facebook Messenger - A fork of sindresorhus/caprine",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sindresorhus/caprine.git"
+    "url": "https://github.com/Rab1nX/web-caprine.git"
   },
   "author": {
     "name": "Web Caprine Contributors"
   },
   "bugs": {
-    "url": "https://github.com/sindresorhus/caprine/issues"
+    "url": "https://github.com/Rab1nX/web-caprine/issues"
   },
-  "homepage": "https://github.com/sindresorhus/caprine#readme",
+  "homepage": "https://github.com/Rab1nX/web-caprine#readme",
+  "funding": {
+    "url": "https://github.com/sindresorhus/caprine?sponsor=1"
+  },
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
     "server": "cd server && npm start",
